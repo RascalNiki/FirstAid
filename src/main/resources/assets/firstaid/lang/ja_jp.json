@@ -1,7 +1,7 @@
 {
   "itemGroup.firstaid": "First Aid",
   "item.firstaid.bandage": "包帯",
-  "item.firstaid.plaster": "絆創膏",
+  "item.firstaid.plaster": "ばんそうこう",
   "item.firstaid.morphine": "モルヒネ",
 
   "firstaid.gui.head": "頭",
@@ -30,7 +30,7 @@
   "firstaid.tutorial.line2": "体の各部位にそれぞれ体力があります。そのため、もし高いところから落ちると…",
   "firstaid.tutorial.line3": "足にダメージを負います！ これによってThis may cause some debuffs to apply, like slowness for damaged feet, mining fatigue for damaged arms and so on.",
   "firstaid.tutorial.line4": "この効果はモルヒネを使うか、けがを治すことで回避できます",
-  "firstaid.tutorial.line5": "けがは包帯か絆創膏を使う（アイテムを右クリック）ことで治すことができます。",
+  "firstaid.tutorial.line5": "けがは包帯かばんそうこうを使う（アイテムを右クリック）ことで治すことができます。",
   "firstaid.tutorial.sleephint": "ベッドで寝ると、体が少しだけ自己再生をします。",
   "firstaid.tutorial.line6": "A player can die, if a critical organ's health (head or body) drop to zero.",
   "firstaid.tutorial.line7": "In this case, the player would be dead, no matter how much health the other organs have.",
